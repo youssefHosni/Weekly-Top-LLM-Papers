@@ -1,4 +1,4 @@
-# Weekly-Awsome-LLM-Papers
+# Weekly-Awsome-LLM-Papers  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of weekly published LLM papers 
 
 ![Papers](https://github.com/youssefHosni/Weekly-Awsome-LLM-Papers/assets/72076328/3145f37c-d069-4d1e-b76b-e27f9159e008)
