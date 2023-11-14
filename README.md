@@ -17,6 +17,7 @@ A curated list of weekly published LLM papers
 
 ## November 2023 ##
 * [Top Important LLM Papers for the Week from 30/10 to 5/11](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-30-10-to-5-11-e0af10a8b7fe?sk=03724f65d62457ce7a0fa57172988c32)
+* [Top Important LLM Papers for the Week from 06/11 to 12/11]()
 
 
 ## October 2023 ##
