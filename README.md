@@ -19,7 +19,7 @@ A curated list of weekly published LLM papers
 * [Top Important LLM Papers for the Week from 30/10 to 5/11](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-30-10-to-5-11-e0af10a8b7fe?sk=03724f65d62457ce7a0fa57172988c32)
 * [Top Important LLM Papers for the Week from 06/11 to 12/11](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-06-11-to-12-11-f9968bd8edbf?sk=db55eee1288ff1fc52ebbf0a9e0c989b)
 * [Top Important LLM Papers for the Week from 13/11 to 19/11](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-13-11-to-19-11-15656b84d596?sk=10ddd2e0a95d97fdd9db94fe944931d0)
-* [Top Important LLM Papers for the Week from 20/11 to 26/11]()
+* [Top Important LLM Papers for the Week from 20/11 to 26/11](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-20-11-to-26-11-15c07125e198?sk=fa5be3e825f1bd83f3710bcf17edd7c5)
 
 
 ## October 2023 ##
