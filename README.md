@@ -1,4 +1,4 @@
-# Weekly-Awsome-LLM-Papers  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)     
+# Weekly-Awsome-LLM-Papers  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)       
               
 [![GitHub license](https://img.shields.io/github/license/youssefHosni/Weekly-Awsome-LLM-Papers.svg)](https://github.com/youssefHosni/Weekly-Awsome-LLM-Papers/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Weekly-Awsome-LLM-Papers.svg)](https://GitHub.com/youssefHosni/Weekly-Awsome-LLM-Papers/graphs/contributors/)
