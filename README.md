@@ -24,6 +24,7 @@ A curated list of weekly published LLM papers
 
 ### Weekly Top LLM Papers | February 2024 ###
 * [Top Important LLM Papers for the Week from 29/01 to 04/02](https://yousefhosni.medium.com/top-important-llm-papers-for-the-week-from-29-01-to-04-02-503f878619dc?sk=4c9f4fdafabd4dbdf20ac322e3be9ce5)
+* [Top Important LLM Papers for the Week from 05/02 to 11/02](https://medium.com/gitconnected/top-important-llm-papers-for-the-week-from-05-02-to-11-02-f200c6095c9e?sk=1c7e2a79c6868f6be967fe11e6ce7390)
   
 ## Weekly Top LLM Papers In 2023 ## 
 
