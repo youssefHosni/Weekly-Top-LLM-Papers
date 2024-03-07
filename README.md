@@ -30,7 +30,7 @@ A curated list of weekly published LLM papers
 
 
 ### Weekly Top LLM Papers | March 2024 ###
-* [Top Important LLM Papers for the Week from 24/02 to 03/03](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-19-02-to-25-02-25af1912ca1b?sk=fd0c09ad2d1c0abd70f93bcb7ef6e338)
+* [Top Important LLM Papers for the Week from 26/02 to 03/03](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-19-02-to-25-02-25af1912ca1b?sk=fd0c09ad2d1c0abd70f93bcb7ef6e338)
   
 ## Weekly Top LLM Papers In 2023 ## 
 
