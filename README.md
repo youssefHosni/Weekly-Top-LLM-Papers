@@ -33,6 +33,8 @@ A curated list of weekly published LLM papers
 * [Top Important LLM Papers for the Week from 26/02 to 03/03](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-19-02-to-25-02-25af1912ca1b?sk=fd0c09ad2d1c0abd70f93bcb7ef6e338)
 * [Top Important LLM Papers for the Week from 04/03 to 10/03](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-04-03-to-10-03-5668a9bb2367?sk=e564681ca1ad898d99cf13d7547d8619)
 * [Top Important LLM Papers for the Week from 11/03 to 17/03](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-11-03-to-17-03-153a929ab893?sk=6ca6a1866788feebb57f2a6346f73b79)
+* [Top Important LLM Papers for the Week from 18/03 to 24/03](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-18-03-to-24-03-42b3b172ffe3?sk=b0a097775a2f3ab859394f27c20c27c5)
+* [Top Important LLM Papers for the Week from 25/03 to 31/03]()
 
 
 -------------------------
