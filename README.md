@@ -34,9 +34,11 @@ A curated list of weekly published LLM papers
 * [Top Important LLM Papers for the Week from 04/03 to 10/03](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-04-03-to-10-03-5668a9bb2367?sk=e564681ca1ad898d99cf13d7547d8619)
 * [Top Important LLM Papers for the Week from 11/03 to 17/03](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-11-03-to-17-03-153a929ab893?sk=6ca6a1866788feebb57f2a6346f73b79)
 * [Top Important LLM Papers for the Week from 18/03 to 24/03](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-18-03-to-24-03-42b3b172ffe3?sk=b0a097775a2f3ab859394f27c20c27c5)
-* [Top Important LLM Papers for the Week from 25/03 to 31/03]()
+* [Top Important LLM Papers for the Week from 25/03 to 31/03](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-25-03-to-31-03-fae9285b74b3?sk=f007afd31da75b17cab317ef094a9d4f)
 
 ### Weekly Top LLM Papers | April 2024 ###
+* [Top Important LLM Papers for the Week from 01/04 to 07/04](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-01-04-to-07-04-4db98d8bbb92?sk=624638162c5a16ff6e8f50cae7b7f028)
+* [Top Important LLM Papers for the Week from 08/04 to 14/04](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-08-04-to-14-04-5c39c19a41eb?sk=0bd39eaae03eda40ce67e58704bca254)
 
 -------------------------
   
