@@ -46,25 +46,3 @@ A curated list of weekly published LLM papers
 * [Top Important LLM Papers for the Week from 29/04 to 05/05](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-29-04-to-05-05-c08d4ff85618?sk=1849103fca41afe5c73a47030ad3aecb)
 * [Top Important LLM Papers for the Week from 06/05 to 12/05](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-06-05-to-12-05-1eb0d0c4d001?sk=287d6c772c970ee68760ba2b52724b3a)
 
-
-
--------------------------
-  
-## Weekly Top LLM Papers In 2023 ## 
-
-### Weekly Top LLM Papers | December 2023 ###
-* [Top Important LLM Papers for the Week from 27/11 to 03/12](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-27-11-to-03-12-31f445d3efce?sk=f729b2ea9ccb3cbca6c08fab45fed358)
-* [Top Important LLM Papers for the Week from 04/12 to 10/12](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-04-12-to-10-12-8e7e72f85fb5?sk=0da267bcc0a0df4a278e97dd44b934ec)
-* [Top Important LLM Papers for the Week from 11/12 to 17/12](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-18-12-to-24-12-f804ea672b0e?sk=4b90240a5bacbb558bed5838145970dc)
-
-### Weekly Top LLM Papers | November 2023 ###
-* [Top Important LLM Papers for the Week from 30/10 to 5/11](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-30-10-to-5-11-e0af10a8b7fe?sk=03724f65d62457ce7a0fa57172988c32)
-* [Top Important LLM Papers for the Week from 06/11 to 12/11](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-06-11-to-12-11-f9968bd8edbf?sk=db55eee1288ff1fc52ebbf0a9e0c989b)
-* [Top Important LLM Papers for the Week from 13/11 to 19/11](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-13-11-to-19-11-15656b84d596?sk=10ddd2e0a95d97fdd9db94fe944931d0)
-* [Top Important LLM Papers for the Week from 20/11 to 26/11](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-20-11-to-26-11-15c07125e198?sk=fa5be3e825f1bd83f3710bcf17edd7c5)
-
-### Weekly Top LLM Papers | October 2023 ###
-* [Top Important LLM Papers for the Week from 2/10 to 8/10](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-2-10-to-8-10-123d0a4ee95e?sk=b4d9cb352c77b32874951b7817bd2f60)
-* [Top Important LLM Papers for the Week from 9/10 to 15/10](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-9-10-to-15-10-5f995aa6043c?sk=2899df563da5e4dce439dccd825a1b31)
-* [Top Important LLM Papers for the Week from 16/10 to 22/10](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-16-10-to-22-10-229705acae3c?sk=70da3e865061a4239dea6a07ff8727d0)
-* [Top Important LLM Papers for the Week from 23/10 to 29/10](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-23-10-to-29-10-294859da8325?sk=e8210ab687c8e14d359c2b37ef9898ad)
