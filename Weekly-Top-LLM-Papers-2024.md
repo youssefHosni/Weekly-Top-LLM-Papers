@@ -28,5 +28,5 @@
 ## Weekly Top LLM Papers | May 2024 ##
 * [Top Important LLM Papers for the Week from 29/04 to 05/05](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-29-04-to-05-05-c08d4ff85618?sk=1849103fca41afe5c73a47030ad3aecb)
 * [Top Important LLM Papers for the Week from 06/05 to 12/05](https://medium.com/towards-artificial-intelligence/top-important-llm-papers-for-the-week-from-06-05-to-12-05-1eb0d0c4d001?sk=287d6c772c970ee68760ba2b52724b3a)
-
+* [Top Important LLMs Papers for the Week from 13/05 to 19/05](https://medium.com/towards-artificial-intelligence/top-important-llms-papers-for-the-week-from-13-05-to-19-05-24ea50a38b1c?sk=ea46962385764ffbad52c738f986d49d)
 
