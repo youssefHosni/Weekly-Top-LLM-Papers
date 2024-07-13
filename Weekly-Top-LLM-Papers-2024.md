@@ -38,6 +38,5 @@
 * [Top Important LLMs Papers for the Week from 24/06 to 30/06](https://medium.com/towards-artificial-intelligence/top-important-llms-papers-for-the-week-from-24-06-to-30-06-2cf1fb8ef7b9?sk=3f9ba1ffa1061f738b863d57a1dc8009)
 
 ## Weekly Top LLM Papers | July 2024 ##
-
-
+* [Top Important LLMs Papers for the Week from 01/07 to 07/07](https://medium.com/towards-artificial-intelligence/top-important-llms-papers-for-the-week-from-01-07-to-07-07-59f6732fab8e?sk=589ad4a1a6e97eefe97fc03d74fcf384)
 
