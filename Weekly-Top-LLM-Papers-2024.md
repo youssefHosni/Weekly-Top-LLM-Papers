@@ -40,4 +40,5 @@
 ## Weekly Top LLM Papers | July 2024 ##
 * [Top Important LLMs Papers for the Week from 01/07 to 07/07](https://medium.com/towards-artificial-intelligence/top-important-llms-papers-for-the-week-from-01-07-to-07-07-59f6732fab8e?sk=589ad4a1a6e97eefe97fc03d74fcf384)
 * [Important LLMs Papers for the Week from 08/07 to 14/07](https://medium.com/towards-artificial-intelligence/important-llms-papers-for-the-week-from-08-07-to-14-07-65b91217b4da?sk=6e709cede288bd1023b4df0d8b0b28f2)
+* [Important LLMs Papers for the Week from 15/07 to 21/07](https://medium.com/towards-artificial-intelligence/important-llms-papers-for-the-week-from-15-07-to-21-07-f7f1d0a9d7e1)
 
