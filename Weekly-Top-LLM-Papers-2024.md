@@ -41,4 +41,7 @@
 * [Top Important LLMs Papers for the Week from 01/07 to 07/07](https://medium.com/towards-artificial-intelligence/top-important-llms-papers-for-the-week-from-01-07-to-07-07-59f6732fab8e?sk=589ad4a1a6e97eefe97fc03d74fcf384)
 * [Important LLMs Papers for the Week from 08/07 to 14/07](https://medium.com/towards-artificial-intelligence/important-llms-papers-for-the-week-from-08-07-to-14-07-65b91217b4da?sk=6e709cede288bd1023b4df0d8b0b28f2)
 * [Important LLMs Papers for the Week from 15/07 to 21/07](https://medium.com/towards-artificial-intelligence/important-llms-papers-for-the-week-from-15-07-to-21-07-f7f1d0a9d7e1)
-
+* [Important LLMs Papers for the Week from 22/07 to 28/07](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-6e1?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Important LLM Papers for the Week from 29/07 to 04/08](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week?r=1sqbmi&utm_campaign=post&utm_medium=web)
+## Weekly Top LLM Papers | August 2024 ##
+* [Important LLM Papers for the Week from 05/08 to 11/08](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-ae7?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
