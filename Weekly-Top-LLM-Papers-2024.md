@@ -46,3 +46,5 @@
 ## Weekly Top LLM Papers | August 2024 ##
 * [Important LLM Papers for the Week from 05/08 to 11/08](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-ae7?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 * [Important LLMs Papers for the Week from 12/08 to 18/08](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-024?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Important LLMs Papers for the from 19/08 to 25/08](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-from?r=1sqbmi&utm_campaign=post&utm_medium=web)
+
