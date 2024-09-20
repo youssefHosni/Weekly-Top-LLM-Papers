@@ -51,6 +51,6 @@
 * [Important LLMs Papers for the Week from 26/08 to 01/09](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-8db?r=1sqbmi&utm_campaign=post&utm_medium=web)
 
 ## Weekly Top LLM Papers | September 2024 ##
-* [Important LLMs Papers for the Week from 26/08 to 01/09](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-e0e?r=1sqbmi&utm_campaign=post&utm_medium=web)
-* 
+* [Important LLMs Papers for the Week from 02/09 to 08/09](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-e0e?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Important LLMs Papers for the Week from 09/09 to 15/09](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-de2?r=1sqbmi&utm_campaign=post&utm_medium=web)
 
