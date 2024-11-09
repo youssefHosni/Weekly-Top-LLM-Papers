@@ -60,4 +60,6 @@
 * [Important LLMs Papers for the Week from 30/09 to 06/10](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-dce?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Important LLMs Papers for the Week from 07/10 to 13/10](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-d59?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Important LLMs Papers for the Week from 14/10 to 20/10](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-53d?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Important LLMs Papers for the Week from 21/10 to 27/10](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-7b5?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Important LLMs Papers for the Week from 28/10 to 03/11](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-bae?r=1sqbmi&utm_campaign=post&utm_medium=web)
 
