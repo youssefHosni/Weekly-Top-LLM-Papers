@@ -72,3 +72,4 @@
 ## Weekly Top LLM Papers | December 2024 ##
 * [Important LLMs Papers for the Week from 02/12 to 08/12](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-8b5?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 * [Important LLMs Papers for the Week from 16/12 to 22/12](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-d1a?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Important LLMs Papers for the Week from 23/12 to 29/12](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-72a?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
