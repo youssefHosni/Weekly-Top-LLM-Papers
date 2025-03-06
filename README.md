@@ -10,7 +10,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Weekly-Awsome-LLM-Papers.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Weekly-Awsome-LLM-Papers/network/)
 [![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Weekly-Awsome-LLM-Papers.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Weekly-Awsome-LLM-Papers/stargazers/)
 
-A curated list of weekly published LLM papers 
+A curated summary of the most important published LLM & Generative AI papers updated on a weekly basis 
 
 ![Papers](https://github.com/youssefHosni/Weekly-Awsome-LLM-Papers/assets/72076328/3145f37c-d069-4d1e-b76b-e27f9159e008)
 
