@@ -13,3 +13,5 @@
 * [Important LLMs Papers for the Week from 24/02 to 01/03](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-5bf?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 ## Weekly Top LLM Papers | March 2025 ##
+* [Important LLMs Papers for the Week from 03/03 to 09/03](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-39b?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Important LLM Papers for the Week from 24/03 to 30/03](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-19f?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
