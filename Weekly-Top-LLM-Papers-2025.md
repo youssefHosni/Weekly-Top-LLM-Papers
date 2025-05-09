@@ -20,3 +20,5 @@
 * [Important LLM Papers for the Week from 31/03 to 04/06](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-81f?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 * [Important LLM Papers for the Week From 07/04 to 14/04](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-224?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 * [Important LLM Papers for the Week From 14/04 to 20/04](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-8d6?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Important LLM Papers for the Week From 21/04 to 27/04](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-7f2?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Important LLM Papers for the Week From 28/04 to 03/05](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-493?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
