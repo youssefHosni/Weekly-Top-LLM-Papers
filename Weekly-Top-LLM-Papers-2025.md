@@ -29,5 +29,6 @@
 
 ## Weekly Top LLM Papers | June 2025 ##
 * [Important LLM Papers for the Week From 09/06 to 15/06](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-02a?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Important LLM Papers for the Week From 16/06 to 22/06](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-175?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 
