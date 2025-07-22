@@ -33,3 +33,4 @@
 
 ## Weekly Top LLM Papers | July 2025 ##
 * [Important LLM Papers for the Week From 30/06 to 05/07](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-776?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Important LLM Papers for the Week From 07/07 to 13/07](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-762?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
