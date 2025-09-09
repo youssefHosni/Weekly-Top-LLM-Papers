@@ -35,3 +35,11 @@
 * [Important LLM Papers for the Week From 30/06 to 05/07](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-776?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 * [Important LLM Papers for the Week From 07/07 to 13/07](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-762?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 * [Important LLM Papers for the Week From 28/07 to 02/08](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-e1c?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+
+## Weekly Top LLM Papers | August 2025 ##
+* [Important LLM Papers for the Week From 11/08 TO 17/08](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-736?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+
+
+## Weekly Top LLM Papers | September 2025 ##
+* [Important LLM Papers for the Week From 01/09 To 06/09](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-a6a?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+
