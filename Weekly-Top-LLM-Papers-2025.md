@@ -42,4 +42,13 @@
 
 ## Weekly Top LLM Papers | September 2025 ##
 * [Important LLM Papers for the Week From 01/09 To 06/09](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-a6a?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Important LLM Papers for the Week From 08/09 To 14/09](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-13d?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Important LLM Papers for the Week From 15/09 To 21/09](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-cf3?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Important LLM Papers for the Week From 22/09 To 28/09](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-6dc?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+
+
+## Weekly Top LLM Papers | October 2025 ##
+* [Important LLM Papers for the Week From 13/10 To 18/10](https://open.substack.com/pub/youssefh/p/important-llm-papers-for-the-week-556?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) 
+
+
 
