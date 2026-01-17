@@ -14,6 +14,8 @@ A curated summary of the most important published LLM & Generative AI papers upd
 
 ![Papers](https://github.com/youssefHosni/Weekly-Awsome-LLM-Papers/assets/72076328/3145f37c-d069-4d1e-b76b-e27f9159e008)
 
+
+* [Weekly Top LLM Papers In 2026](https://github.com/youssefHosni/Weekly-Top-LLM-Papers/blob/main/Weekly-Top-LLM-Papers-2026.md) 
 * [Weekly Top LLM Papers In 2025](https://github.com/youssefHosni/Weekly-Top-LLM-Papers/blob/main/Weekly-Top-LLM-Papers-2025.md) 
 * [Weekly Top LLM Papers In 2024](https://github.com/youssefHosni/Weekly-Top-LLM-Papers/blob/main/Weekly-Top-LLM-Papers-2024.md)
 * [Weekly Top LLM Papers In 2023](https://github.com/youssefHosni/Weekly-Top-LLM-Papers/blob/main/Weekly-Top-LLM-Papers-2023.md)
